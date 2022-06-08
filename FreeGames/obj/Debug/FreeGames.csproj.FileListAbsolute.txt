@@ -1,0 +1,70 @@
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\FreeGames.exe.config
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\FreeGames.exe
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\FreeGames.pdb
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\CommonServiceLocator.dll
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.AssemblyReference.cache
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.SuggestedBindingRedirects.cache
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\View\DetailPage.g.cs
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\MainWindow.g.cs
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\View\OverViewPage.g.cs
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\App.g.cs
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames_MarkupCompile.cache
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames_MarkupCompile.lref
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\View\DetailPage.baml
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\MainWindow.baml
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\View\OverViewPage.baml
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames.g.resources
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames.Properties.Resources.resources
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.GenerateResource.cache
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.CoreCompileInputs.cache
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.CopyComplete
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames.exe
+C:\Users\hemt1\source\repos\proj-Hemant-Gurung\FreeGames\FreeGames\obj\Debug\FreeGames.pdb
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\FreeGames.exe.config
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\FreeGames.exe
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\FreeGames.pdb
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\CommonServiceLocator.dll
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.dll
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\Newtonsoft.Json.dll
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\System.Windows.Interactivity.dll
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.xml
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\bin\Debug\Newtonsoft.Json.xml
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.AssemblyReference.cache
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.SuggestedBindingRedirects.cache
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\View\DetailPage.g.cs
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\MainWindow.g.cs
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\View\OverViewPage.g.cs
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\App.g.cs
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames_MarkupCompile.cache
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames_MarkupCompile.lref
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\View\DetailPage.baml
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\MainWindow.baml
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\View\OverViewPage.baml
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames.g.resources
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames.Properties.Resources.resources
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.GenerateResource.cache
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.CoreCompileInputs.cache
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames.csproj.CopyComplete
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames.exe
+C:\_TOOLS_DEV\C# ExamProject\proj-Hemant-Gurung-main\FreeGames\FreeGames\obj\Debug\FreeGames.pdb

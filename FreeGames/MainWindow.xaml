@@ -1,0 +1,30 @@
+﻿<Window x:Class="FreeGames.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:VM ="clr-namespace:FreeGames"
+      xmlns:viewMain ="clr-namespace:FreeGames.ViewModel"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FreeGames"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        MaxHeight="1200" MaxWidth="1920" MinHeight="700" MinWidth="1300"
+        >
+         
+    <Window.Content>
+        <!--<VM:DetailPage VerticalAlignment="Stretch"  HorizontalAlignment="Stretch"/>-->
+        <!--<VM:OverViewPage VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>-->
+        <!--<vm:OverViewPageVM VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>-->
+        <Grid>
+            <Frame NavigationUIVisibility="Hidden" Content="{Binding CurrentPage}"/>
+            <Button VerticalAlignment="Bottom" Command="{Binding SwitchPageCommand}" Content="{Binding CommandText}" />
+        </Grid>
+        
+    </Window.Content>
+
+    <!--GAME VIEW MODE MAIN-->
+    <Window.DataContext>
+        <viewMain:GameViewModel/>
+    </Window.DataContext>
+
+</Window>
